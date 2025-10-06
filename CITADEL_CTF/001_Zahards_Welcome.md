@@ -9,10 +9,9 @@ all climbers are briefed before the ascent.”
 ## MY SOLVE
 **Flag:** ` citadel{7h3_c174d3l_b3ck0n5}`
 
-### Thought Process/Steps
+### THOUGHT PROCESS/STEPS
 In this challenge, we just had to follow a simple clue — the invitation link provided in the description. Once we clicked on it, 
 it led us to the discord server, and from there, we explored the sections a bit. Eventually, we headed to the #rules section, and 
 that’s where we found the flag waiting for us.
 
-```bash
-Nil ```
+
