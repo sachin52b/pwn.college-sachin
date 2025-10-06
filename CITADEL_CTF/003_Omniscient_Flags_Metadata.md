@@ -14,8 +14,6 @@ hinted that there was another image hidden inside this one. Following that lead,
 a website called Aperisolve. We uploaded the image there, and it provided us with a downloadable ZIP file containing the extracted 
 layers. Inside that ZIP, we found a PNG image — and that image had the flag written on it.
 
-```bash
-Nil ```
 
 #### References 
 https://exif.tools/
