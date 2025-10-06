@@ -15,9 +15,9 @@ a website called Aperisolve. We uploaded the image there, and it provided us wit
 layers. Inside that ZIP, we found a PNG image — and that image had the flag written on it.
 
 
-#### References 
+## References 
 https://exif.tools/
 https://aperisolve.fr/
 
-##### What I learnt 
+## What I learnt 
 Learnt the use of exif and binwalk tools.
