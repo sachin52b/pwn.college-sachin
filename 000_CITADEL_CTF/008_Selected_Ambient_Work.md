@@ -21,8 +21,6 @@ With the Morse beeps now relatively isolated, we exported the cleaned audio and 
 
 Most of the text was an informative description about Aphex Twin, a famous electronic musician, but one segment clearly stood out — “1 L0V3 1DM” — which didn’t fit naturally with the rest of the text. This unusual phrase was the actual flag for the challenge.
 
-Thus, by methodically cleaning the audio, isolating the Morse beeps, and decoding the message, we successfully extracted the hidden flag.
-
 ## REFERENCES 
 https://www.audacityteam.org/
 https://morsecode.world/international/decoder/audio-decoder-adaptive.html
