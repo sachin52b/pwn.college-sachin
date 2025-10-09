@@ -21,7 +21,8 @@ fi
 ````
 
 ```bash
-~$ bash ./solve.sh pwn
+~$ nano solve.sh
+hacker@chaining~scripting-with-default-cases:~$  bash ./solve.sh pwn
 college
 hacker@chaining~scripting-with-default-cases:~$ bash ./solve.sh blahblah
 nope
